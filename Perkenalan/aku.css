@@ -1,0 +1,18 @@
+body {
+  background-image: url("fuji.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  h3 {
+    color: green;
+  }
+  background-color: aquamarine;
+}
+p {
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button {
+  background-color: aqua;
+}
